@@ -95,6 +95,31 @@ To run all unit tests, run:
 * [Task 7.1](Submissions/Practical%20Task%207.1.pdf)
 * [Task 8.1](Submissions/Practical%20Task%208.1.pdf)
 
+
+<!-- VIDEOS -->
+## Videos
+* [Task 1.1](https://youtu.be/DcyAP9SbTfw)
+* [Task 1.2](https://youtu.be/A9neQu8zVD8)
+* [Task 1.2](https://youtu.be/Mh9iEmVSyBM)
+* [Task 2.1](https://youtu.be/RcVudQIwLM0)
+* [Task 2.2](https://youtu.be/RcVudQIwLM0)
+* [Task 2.3](https://youtu.be/bavD2ylwOUg)
+* [Task 3.1](https://youtu.be/JxpZBAssewo)
+* [Task 3.2](https://youtu.be/HL19a_Di6Dw)
+* [Task 3.3](https://youtu.be/2ILND7SROjk)
+* [Task 3.4](https://youtu.be/voWpmEtdJCg)
+* [Task 4.1](https://youtu.be/ft2O8HdsqxU)
+* [Task 4.2](https://youtu.be/lH6tID7GKio)
+* [Task 5.1](https://youtu.be/P73qtWAb56s)
+* [Task 5.2](https://youtu.be/D_ghX7zGfyA)
+* [Task 5.3](https://youtu.be/MsehHjetM5I)
+* [Task 5.4](https://youtu.be/wboh30mWTVc)
+* [Task 6.1](https://youtu.be/mqnJkiKIwbQ)
+* [Task 6.2](https://youtu.be/U8Z1yslwFWE)
+* [Task 7.1](https://youtu.be/uzQnwz-DNLA)
+* [Task 8.1](https://youtu.be/emw2P6u3jUI)
+
+
 <!-- CONTACT -->
 ## Contact
 
