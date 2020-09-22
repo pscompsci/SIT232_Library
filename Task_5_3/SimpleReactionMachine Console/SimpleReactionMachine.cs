@@ -18,7 +18,7 @@ namespace SimpleReactionMachine
         const char PADDING = ' ';
         const string VERTICAL_LINE = "│";
 
-        static private IController controller;
+        static private IController contoller;
         static private IGui gui;
 
         static void Main(string[] args)
@@ -52,10 +52,10 @@ namespace SimpleReactionMachine
             timer.AutoReset = true;
 
             // Connect GUI with the Controller and vice versa
-            controller = new SimpleReactionController();
+            contoller = new SimpleReactionController();
             gui = new Gui();
-            gui.Connect(controller);
-            controller.Connect(gui, new RandomGenerator());
+            gui.Connect(contoller);
+            contoller.Connect(gui, new RandomGenerator());
 
             //Reset the GUI
             gui.Init();
@@ -70,10 +70,10 @@ namespace SimpleReactionMachine
                 switch (key.Key)
                 {
                     case ConsoleKey.Enter:
-                        controller.GoStopPressed();
+                        contoller.GoStopPressed();
                         break;
                     case ConsoleKey.Spacebar:
-                        controller.CoinInserted();
+                        contoller.CoinInserted();
                         break;
                     case ConsoleKey.Escape:
                         quitePressed = true;
@@ -85,7 +85,7 @@ namespace SimpleReactionMachine
         // This event occurs every 10 msec
         private static void OnTimedEvent(Object source, ElapsedEventArgs e)
         {
-            controller.Tick();
+            contoller.Tick();
         }
 
         // Internal implementation of Random Generator
