@@ -33,7 +33,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [License](#license)
 - [Design Patterns](#design-patterns)
 - [Final Portfolio](#final-portfolio)
@@ -52,6 +52,7 @@ The code is primarily C# .NET, however some files are written in Python.
 ### Built With
 
 * [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
+* [Python](https://python.org)
 
 <!-- LICENSE -->
 ## License
