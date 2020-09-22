@@ -100,15 +100,15 @@ To run all unit tests, run:
 
 Peter Stacey - [@twitter_handle](https://twitter.com/pscompsci) - pstacey AT deakin.edu.au
 
-Project Link: [https://github.com/pscompsci/SIT221_Library](https://github.com/pscompsci/SIT221_Library)
+Project Link: [https://github.com/pscompsci/SIT232_Library](https://github.com/pscompsci/SIT232_Library)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/pscompsci/SIT_Library.svg?style=flat-square
-[contributors-url]: https://github.com/pscompsci/SIT221_Library/graphs/contributors
+[contributors-url]: https://github.com/pscompsci/SIT232_Library/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/pscompsci/SIT221_Library.svg?style=flat-square
-[issues-url]: https://github.com/pscompsci/SIT221_Library/issues
+[issues-url]: https://github.com/pscompsci/SIT232_Library/issues
 [license-shield]: https://img.shields.io/github/license/pscompsci/SIT221_Library.svg?style=flat-square
-[license-url]: https://github.com/pscompsci/SIT221_Library/blob/master/LICENSE.txt
+[license-url]: https://github.com/pscompsci/SIT232_Library/blob/master/LICENSE.txt
